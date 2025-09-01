@@ -6,6 +6,8 @@
 
 A desktop application for easy switching between Minecraft mods.
 
+[🔗 Link to a console version](#)
+
 <h2>Application Preview</h2>
 
 <img src="demos/main-demo.gif" alt="Application demo">
