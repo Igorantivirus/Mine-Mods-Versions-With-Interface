@@ -6,7 +6,7 @@
 
 A desktop application for easy switching between Minecraft mods.
 
-[🔗 Link to a console version](#)
+[🔗 Link to a console version](https://github.com/Igorantivirus/MinecraftModVersions)
 
 <h2>Application Preview</h2>
 
